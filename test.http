@@ -1,0 +1,27 @@
+@base=http://localhost:3000
+
+POST {{base}}/api/todos
+Content-Type: application/json
+
+{
+  "title": "Tarefa de teste",
+  "description": "OPAAA, FUNCIONOU"
+}
+
+###
+
+GET {{base}}/api/todos
+
+###
+
+DELETE {{base}}/api/todos/0
+
+###
+
+PUT {{base}}/api/todos/2
+Content-Type: application/json
+
+{
+  "title": "Tarefa de teste atualizada",
+  "description": "OPAAA, FUNCIONOU"
+}
