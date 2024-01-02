@@ -17,10 +17,12 @@ export const APP_ROUTER = createBrowserRouter([
     {
         path: "/",
         element: <DashboardLayout/>,
-        children: DASHBOARD_ROUTES.map(x => ({
-            path: x.href,
-            element: x.element
-        })),
+        children: [
+            {path: "", element: <TodoList/>},
+            ...DASHBOARD_ROUTES.map(x => ({
+                path: x.href,
+                element: x.element
+            }))],
     },
 ]);
 

@@ -70,9 +70,9 @@ export default function TodoDialogForm({todo, open, openChange, onSubmit}: TodoD
                     </div>
                 </div>
                 <DialogFooter>
-                    <Button className={cn(todo ? "mr-auto" : '')} onClick={() => openChange(false)} variant="outline">Cancelar</Button>
-                    {todo && <Button onClick={() => submitForm(true)} variant="destructive">Excluir</Button>}
-                    <Button onClick={() => submitForm(false)}>Concluir</Button>
+                    <Button className={cn(todo ? "mr-auto w-full md:w-auto" : '')} onClick={() => openChange(false)} variant="outline">Cancelar</Button>
+                    {todo && <Button onClick={() => submitForm(true)} className="mb-2 md:mb-0" variant="destructive">Excluir</Button>}
+                    <Button onClick={() => submitForm(false)} className="mb-2 md:mb-0">Concluir</Button>
                 </DialogFooter>
             </DialogContent>
         </Dialog>

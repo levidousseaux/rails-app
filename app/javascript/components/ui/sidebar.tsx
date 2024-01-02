@@ -28,7 +28,7 @@ export default function Sidebar({ toggle, onToggle, onRouteChange }: SidebarProp
                     )}
                 >
                     <h1 className="text-2xl font-extrabold bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-cyan-900">
-                        {toggle ? "DX" : "DUX Analytics"}
+                        {toggle ? "TA" : "Todo App"}
                     </h1>
                 </Link>
 

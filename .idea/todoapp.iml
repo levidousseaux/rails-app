@@ -28,15 +28,39 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="actioncable (v7.1.2, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actionmailbox (v7.1.2, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actionmailer (v7.1.2, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actionpack (v7.1.2, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actiontext (v7.1.2, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="actionview (v7.1.2, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activejob (v7.1.2, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activemodel (v7.1.2, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activerecord (v7.1.2, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activestorage (v7.1.2, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activesupport (v7.1.2, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="base64 (v0.2.0, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bindex (v0.8.1, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="builder (v3.2.4, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="crass (v1.0.6, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="drb (v2.2.0, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="erubi (v1.12.0, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="jbuilder (v2.11.5, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="loofah (v2.22.0, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="marcel (v1.0.2, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="net-pop (v0.1.2, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack (v3.0.8, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack-session (v2.0.0, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rackup (v2.1.0, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails (v7.1.2, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails-dom-testing (v2.2.0, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rails-html-sanitizer (v1.6.0, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="railties (v7.1.2, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ruby2_keywords (v0.0.5, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="sprockets-rails (v3.4.2, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="thor (v1.3.0, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="timeout (v0.4.1, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="webrick (v1.8.1, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="websocket-extensions (v0.1.5, Remote-rbenv: ruby-2.7.6-p219) [gem]" level="application" />
   </component>
   <component name="RModuleSettingsStorage">
